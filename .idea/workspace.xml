@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69ca1f6d-0ea6-44c2-a7a4-0a4f67bcf71e" name="更改" comment="" />
+    <list default="true" id="69ca1f6d-0ea6-44c2-a7a4-0a4f67bcf71e" name="更改" comment="父工程和base工程创建" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +20,11 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/LenovoSoftstore/Code/xuecheng-plus-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -34,6 +36,29 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="父工程和base工程创建">
+      <created>1705914213872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705914213872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="父工程和base工程创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="父工程和base工程创建" />
   </component>
 </project>
